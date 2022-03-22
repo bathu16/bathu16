@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bathu16
 - 👀 I’m interested in Coding and building projects
-- 📫 Soon will C A wat to reach out..
+- 📫 Soon will C A way to reach out..
 
 <!---
 bathu16/bathu16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
